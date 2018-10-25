@@ -1,0 +1,13 @@
+body {
+    background-image: url(ctf.png);
+    /* img By L00PeR */
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: yellow;
+}
+
+.mensaje {
+    background-color: transparent;
+    border: 1px solid orange;
+    color: white;
+}
